@@ -4,6 +4,8 @@
 3. Создать удаленный репозиторий
 4. Связать удаленный репозиторий с локальным.
 6. Добавить удаленный репозиторий к проекту.
-`git add remote` <имя для репозитория> https://github.com/AngelinaChernikova2023/Git-seminar-3
+`git remote add ` <имя для репозитория> https://github.com/AngelinaChernikova2023/Git-seminar-3
 
+...
 Для получения изменений из удаленного репозитория используется команда `git pull`
+...
